@@ -6,15 +6,15 @@ This repository contains solutions to 10 Python programming questions completed 
 
 The assignment focuses on Python fundamentals, including functions, conditional statements, loops, lists, dictionaries, tuples, string manipulation, and problem-solving.
 
-#Technologies Used
+Technologies Used
 
-Language: Python 3
+1.Language: Python 3
 
-IDE: Visual Studio Code / Jupyter Notebook
+2.IDE: Visual Studio Code / Jupyter Notebook
 
-Tools: Python Interpreter
+3.Tools: Python Interpreter
 
-Concepts: Functions, Loops, Conditionals, Strings, Lists, Tuples, Dictionaries
+4.Concepts: Functions, Loops, Conditionals, Strings, Lists, Tuples, Dictionaries
 
 ## Project Structure
 
